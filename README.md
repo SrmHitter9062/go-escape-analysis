@@ -64,3 +64,8 @@ type smallStruct struct {
  ```
 
 The meaning of escapes to the heap is variables needs to be shared across the function stack frames
+
+
+
+
+reference - https://mayurwadekar2.medium.com/escape-analysis-in-golang-ee40a1c064c1
